@@ -1,2 +1,18 @@
 jupyter
 ipykernel
+# Data analysis and visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine learning and deep learning
+torch
+scikit-learn
+statsmodels
+tensorflow
+keras
+
+# Pytorch Geometric for GNN models
+torch-geometric
+torch-geometric-temporal
